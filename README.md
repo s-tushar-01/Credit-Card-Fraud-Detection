@@ -91,6 +91,7 @@ The following metrics are used:
 - Confusion Matrix
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/8a893ceb-9473-4aa8-b853-b125c26f3e88" />
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/42b7324e-6b28-4795-80eb-fc2ca52c47b8" />
+<img width="652" height="567" alt="image" src="https://github.com/user-attachments/assets/53cdc84a-6092-4ba5-9b2f-9464bf21196d" />
 
 
 ---
